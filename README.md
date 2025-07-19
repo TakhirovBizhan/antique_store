@@ -53,27 +53,28 @@
 
 ##Разработка диаграммы IDEF0 AS-IS ##
 
-<img width="1050" height="995" alt="image" src="https://github.com/user-attachments/assets/188a5159-9476-49ab-ad88-e30b33deb95a" />
+<img width="828" height="650" alt="image" src="https://github.com/user-attachments/assets/9b2a9f26-46d2-4629-afe9-68b3f4f92662" />
 
 ##Декомпозиция диаграммы IDEF0 AS-IS##
 
-<img width="1407" height="821" alt="image" src="https://github.com/user-attachments/assets/4fae0fcb-60bd-4987-bc96-c0ebac08afb5" />
+<img width="1026" height="631" alt="image" src="https://github.com/user-attachments/assets/108a61ba-b7dc-4dda-bf39-9e2b78390622" />
 
 ##Разработка диаграммы IDEF0 TO-BE##
 
-<img width="736" height="781" alt="image" src="https://github.com/user-attachments/assets/4b496bcf-88f8-48d0-a065-4d9787ea8476" />
+<img width="724" height="648" alt="image" src="https://github.com/user-attachments/assets/f4e1f528-dd5a-460b-a7fb-8d3d5784f2ff" />
 
 ##Декомпозиция диаграммы IDEF0 TO-BE##
 
-<img width="1311" height="877" alt="image" src="https://github.com/user-attachments/assets/0184b86f-ed42-4b03-b23c-8dc1a3713fe3" />
+<img width="968" height="669" alt="image" src="https://github.com/user-attachments/assets/fe6e3919-5e38-490b-b945-ad238d054b36" />
 
 ##Разработка диаграммы DFD для процесса «Заказ товара»##
 
-<img width="1925" height="605" alt="image" src="https://github.com/user-attachments/assets/9caa4dbc-aba9-4a4f-b41a-4a0e3ff6fe53" />
+<img width="1269" height="464" alt="image" src="https://github.com/user-attachments/assets/76f79d95-273c-4a81-bbee-061b96a1b6f1" />
 
 ##Разработка диаграммы IDEF 3 для оформления заказа##
 
-<img width="2000" height="465" alt="image" src="https://github.com/user-attachments/assets/859498cd-528b-4935-9368-5ef38127f1bb" />
+<img width="1278" height="390" alt="image" src="https://github.com/user-attachments/assets/d6f0bd99-1479-412a-9a1f-751c3be084cf" />
+
 
 
 
