@@ -51,32 +51,44 @@
 – Сформировать структуру панели администратора для управления товарами, заказами и пользователями;
 – Предусмотреть обеспечение адаптивности пользовательского интерфейса для корректной работы на различных устройствах и в разных браузерах.
 
-##Разработка диаграммы IDEF0 AS-IS ##
+##Разработка диаграммы IDEF0 AS-IS
 
 <img width="828" height="650" alt="image" src="https://github.com/user-attachments/assets/9b2a9f26-46d2-4629-afe9-68b3f4f92662" />
 
-##Декомпозиция диаграммы IDEF0 AS-IS##
+##Декомпозиция диаграммы IDEF0 AS-IS
 
 <img width="1026" height="631" alt="image" src="https://github.com/user-attachments/assets/108a61ba-b7dc-4dda-bf39-9e2b78390622" />
 
-##Разработка диаграммы IDEF0 TO-BE##
+##Разработка диаграммы IDEF0 TO-BE
 
 <img width="724" height="648" alt="image" src="https://github.com/user-attachments/assets/f4e1f528-dd5a-460b-a7fb-8d3d5784f2ff" />
 
-##Декомпозиция диаграммы IDEF0 TO-BE##
+##Декомпозиция диаграммы IDEF0 TO-BE
 
 <img width="968" height="669" alt="image" src="https://github.com/user-attachments/assets/fe6e3919-5e38-490b-b945-ad238d054b36" />
 
-##Разработка диаграммы DFD для процесса «Заказ товара»##
+##Разработка диаграммы DFD для процесса «Заказ товара»
 
 <img width="1269" height="464" alt="image" src="https://github.com/user-attachments/assets/76f79d95-273c-4a81-bbee-061b96a1b6f1" />
 
-##Разработка диаграммы IDEF 3 для оформления заказа##
+##Разработка диаграммы IDEF 3 для оформления заказа
 
 <img width="1278" height="390" alt="image" src="https://github.com/user-attachments/assets/d6f0bd99-1479-412a-9a1f-751c3be084cf" />
 
+##Диаграмма EPC поиск товара на сайте
 
+<img width="2000" height="277" alt="image" src="https://github.com/user-attachments/assets/3f031cf3-4957-4600-9a4d-ae91851ef800" />
 
+##Дерево функций интернет магазина
 
+<img width="2000" height="401" alt="image" src="https://github.com/user-attachments/assets/5ebc66d9-31e9-4b6a-8469-feb8a04fb975" />
+
+##USE CASE для интернет магазина антиквариата
+
+<img width="986" height="822" alt="image" src="https://github.com/user-attachments/assets/c018fda7-3799-4773-97c1-5f7253b61daf" />
+
+##BPMN схема для оформление заказа
+
+<img width="1902" height="816" alt="image" src="https://github.com/user-attachments/assets/26fe0d90-cb87-43b9-9c86-95c7a29ac35c" />
 
 
